@@ -39,7 +39,7 @@ function draw() {
 This is the code that moves down the tree as decisions are made. It gets each value from both left and right and also casts the value to a String. If the progressions arrives at the leaf nodes, those values are printed.
 ## Built With
 
-* [Processing](https://processing.org/) - The IDE used
+* [P5js](https://editor.p5js.org/) - The JavaScript editor used
 
 ## Authors
 
