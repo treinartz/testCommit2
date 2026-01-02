@@ -1,4 +1,4 @@
-# testCommit2# finalProject
+# finalProject
 
 # Project Title and purpose
 
